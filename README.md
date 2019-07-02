@@ -1,0 +1,2 @@
+# basedetailblog
+BaseDetail Blog
